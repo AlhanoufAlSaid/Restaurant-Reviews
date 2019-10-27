@@ -40,4 +40,4 @@ Clone or download project to your machine, open up index.html in local host port
 
 ### License
 
-[Udacity repositry is](https://github.com/udacity/mws-restaurant-stage-1)
+[Udacity repositry](https://github.com/udacity/mws-restaurant-stage-1)
